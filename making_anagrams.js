@@ -61,6 +61,5 @@ function main() {
             
         }
     })
-    console.log(num_deletions);
     return num_deletions
 }
